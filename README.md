@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Priyanka M M 👋
 
-<!--
-**Priyankamandappa/Priyankamandappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst based in Bengaluru, India
 
-Here are some ideas to get you started:
+I'm a results-driven professional transitioning into data analytics, with hands-on experience in SQL, Python, Power BI, and Excel. Currently pursuing my MCA in Data Science, I build real-world projects that solve actual business problems — not just academic exercises.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📊 Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| 🔹 [HR Attrition Analysis](#) | Python, SQL, Power BI | Identifying why employees leave and what drives attrition |
+| 🔹 [E-commerce Sales Dashboard](#) | SQL, Power BI, Excel | Sales trends, regional performance and revenue insights |
+| 🔹 [Customer Churn Prediction](#) | Python, Scikit-learn | ML model to predict customer churn with business recommendations |
+
+*(Projects being uploaded — check back soon!)*
+
+---
+
+## 📚 Education
+
+- 🎓 MCA in Data Science — JAIN University *(In Progress)*
+- 🎓 BCA — Soundarya Institute of Management and Science, Bengaluru
+
+## 📜 Certifications
+
+- Business Intelligence Analyst — Udemy (2026)
+- Full Stack Data Analytics — Certisured Institute (2024)
+- Cisco Data Analytics Essentials (2026)
+
+---
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankamandappa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
+
+---
+
+*"Data is the new oil — I'm here to refine it."* ⚡
