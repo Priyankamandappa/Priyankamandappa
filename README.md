@@ -34,11 +34,6 @@ I'm a results-driven professional transitioning into data analytics, with hands-
 - 🎓 MCA in Data Science — JAIN University *(In Progress)*
 - 🎓 BCA — Soundarya Institute of Management and Science, Bengaluru
 
-## 📜 Certifications
-
-- Business Intelligence Analyst — Udemy (2026)
-- Full Stack Data Analytics — Certisured Institute (2024)
-- Cisco Data Analytics Essentials (2026)
 
 ---
 
