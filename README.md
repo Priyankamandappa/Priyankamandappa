@@ -23,7 +23,7 @@ I'm a results-driven professional transitioning into data analytics, with hands-
 |---|---|---|
 | 🔹 [HR Attrition Analysis](https://github.com/Priyankamandappa/hr-attrition-analysis) | Python, SQL, Power BI | Identifying why employees leave and what drives attrition |
 | 🔹 [E-commerce Sales Dashboard](https://github.com/Priyankamandappa/ecommerce-sales-analysis/blob/main/README.md) | SQL, Power BI, Excel | Sales trends, regional performance and revenue insights |
-| 🔹 [Customer Churn Prediction](#) | Python, Scikit-learn | ML model to predict customer churn with business recommendations |
+| 🔹 [Customer Churn Prediction](https://github.com/Priyankamandappa/customer-churn-prediction/blob/main/README.md) | Python, Scikit-learn | ML model to predict customer churn with business recommendations |
 
 *(Projects being uploaded — check back soon!)*
 
